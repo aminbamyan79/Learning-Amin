@@ -8,5 +8,5 @@
 import Foundation
 struct data{
     
-    var name: String?
+    var name: String = "Amin"
 }
